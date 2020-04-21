@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "noEmit": true,
+    "esModuleInterop": true,
+    "lib": ["dom", "esnext"]
+  },
+  "exclude": ["**/__tests__/**"],
+  "include": ["src/**/*", "./custom-typings"]
+}
