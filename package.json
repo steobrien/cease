@@ -1,7 +1,7 @@
 {
   "name": "cease",
   "description": "Simple, isolated CSS-in-JS for React components.",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "license": "MIT",
   "author": "Stephen O’Brien <stepheno@gmail.com>",
   "repository": "git://github.com/steobrien/cease.git",
